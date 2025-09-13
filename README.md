@@ -12,7 +12,7 @@
 ### 🔗 Connect with me:
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradeepmchoudhary2002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-choudhary447/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://pradeepchoudharyy.netlify.app/)
 
 ---
 
